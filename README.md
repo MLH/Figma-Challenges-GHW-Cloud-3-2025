@@ -5,7 +5,7 @@ Quickly translate designs into functional prototypes, iterate on UI elements eff
 
 ## Getting Help 
 
-* If you have any questions about Figma or their Global Hack Week challenges, head to the [MLH Discord](https://discord.mlh.io/) and find the #ask-Figma channel!
+* If you have any questions about Figma during the event, including sign-up and verification questions, you can reach them at education@figma.com. 
 * We've included some helpful resources for each challenge. 
 
 
